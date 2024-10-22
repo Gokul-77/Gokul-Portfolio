@@ -1,17 +1,30 @@
-# opPortfolio
+#Home-Page
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/afea2508-00ca-464f-8f63-a4283928fc0f/deploy-status)](https://app.netlify.com/sites/hriship/deploys)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FHrishi1999%2FopPortfolio)
+![image](https://github.com/user-attachments/assets/fb1fccf1-107e-480f-9bb2-6f1fe4ccf8f4)
 
-![opPortfolio](/images/portfolio.gif)
 
-### A clean portfolio template. (Readme will be updated soon)
+#Education & certificates page
+
+![image](https://github.com/user-attachments/assets/547221d6-2f8e-4c1a-9755-51a0e48452fc)
+
+
+#Projects-page
+
+![image](https://github.com/user-attachments/assets/8b251301-d87e-4a73-9fc2-e564dff0a1f1)
+
+
+#Contact-page
+
+![image](https://github.com/user-attachments/assets/640589e6-09d7-4e13-9537-fe09b6b7c714)
+
+
+
+### A clean portfolio template. 
 
 # Sections
 
 - Home
 - Education and Certificates
-- Experience
 - Projects
 - Contact and Resume
 
@@ -31,7 +44,3 @@
 
 I have used Netlify to host my portfolio. If you want to use GitHub Pages, just run `npm run build` and publish all the files in the `/build` folder to your repository.
 
-# References
-
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
